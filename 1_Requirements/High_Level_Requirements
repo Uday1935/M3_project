@@ -1,0 +1,5 @@
+HLR1	It will start the car
+HLR2	It will start the wiper
+HLR3	It shall see the speed of the wiper work
+HLR4	It will stop the wiper
+HLR5	It will stop the car
