@@ -1,67 +1,28 @@
+WIPER CONTROL SYSTEM
+
 INTRODUCTION
 
-Wiper is an essential component that used to wipe the raindrops or any water from the windscreen. Wipers are designed and made to clear the water from a windscreen. Most of cars have two wipers on the windscreen, one on the rear window and the other on each headlight. The wiper parts visible from outside the car are the rubber blade, the wiper arm holding the blade, a spring linkage, and parts of the wiper pivots
+Wipers are a common feature in all automobiles now a days (except bikes).
+Wipers are used to keep the windshield clear of any thhing that blocks the vision of the driver.
+It can be rain, snow, sand, etc.
+![Wiper controller](https://user-images.githubusercontent.com/101520063/168470476-22dec143-c9f2-4022-9484-7af50ad4065a.png)
 
-FEATURES
+The image shown above is a wiper from a car.
+Wiper operation
+![WC](https://user-images.githubusercontent.com/101520063/168470543-850d121e-5f7a-49c3-85d5-728c797ee1ed.png)
 
-1.It shall lock the car when button is pressed ONCE FOR LONG.
+The wipers are connected to a motor.
+The motor is operated from a switch inside the car
+wiper switch
+![wiper Switch](https://user-images.githubusercontent.com/101520063/168470586-3fcad288-8bc3-4b6a-92d8-bb519431e415.png)
 
-2.It shall open the car when button is pressed ONCE.
-
-3.Wiper should on when button is pressed TWICE.
-
-4.Wiper should off when button is pressed THRICE.
-
-5.Speed of wiper will increase when button is pressed once and then again pressed for long.
-
-SWOT ANALYSIS
-
-STRENGTH
-
-1.If sesnor sense the rain drops system will give instruction to turn on the wiper it will start wiping the windshield untill we don't make it off
-
-2.If speed water increases then we can increase the speed of wiper
-
-3.If it will be automatic and there is too much wind and less rain at that time windshield may get scratches and bushes can also get damage
-
-WEAKNESS
-
-1.If it get damaged or there is some problem it can be costly
-
-2.Manual work will increase
-
-3.If speed of wiper will be at high then it can create disturbance for driver
-
-OPORTUNITIES
-
-1.With Less input more output will be there
-2.Better than pulling liver
-
-THREATS
-
-1.If bushes are not changed from long time it may damage the windshield
-
-2.if there is dust and rain together at that also it can damage to wiper and windshield
-
-3.Still manual work is there Driver cannot concentrate on Driving
-
-4W's & 1H
-
-What
-
-wiper control system (WCS)
-
-Where
-
-Wiper on windshield and control in the car
-
-When
-
-When the weather condition is bad (like in rain and snow) the wiper is activate and can clean the car windshield
-
-Who
-
-Who is driving or controlling the car
-
-How
-By using STM like by multiple pushes on a button
+When the wiper is switched on, the wiper rotates in standard speed.
+When the switch is set in speed_high position, it rotates faster.
+When the switch returns back to the original position, the wipers go back to its original position (OFF position) and stop.
+4W's and 1H
+QUESTION	EXPLANATION
+What?	It is a wiper control system that is used to operate the wipers
+Who?	This system can be used by anyone operating a vehicle using the wiper system
+When	This system can be used when the weather conditions prevent clear view of anything in front of the vehicle when driving
+Where?	It can be used anywhere like roads in cities, deserts, etc. 
+How?	First the switch is pressed to operate the wiper. Then the switch positions are changes to vary the wiper speeds.
