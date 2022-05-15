@@ -1,4 +1,4 @@
-ID	      Description	          status
+ID	     Description	          status
 
 HLR01	 vehicle switched ON	  Implemented
 
